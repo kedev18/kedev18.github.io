@@ -2,7 +2,7 @@
   "Ads": [
       {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-6372655865928482/6914966014",
       "main_ads_intertitial":"ca-app-pub-6372655865928482/8036475995",
       "native_for_admob":"ca-app-pub-6372655865928482/2784149311",
@@ -14,8 +14,8 @@
       "high_paying_keyword_1": "Insurance",
       "high_paying_keyword_2": "Electricity",
       "high_paying_keyword_3": "Conference",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_4": "Hosting",
+      "high_paying_keyword_5": "Kredit",
       "status_app": "0",
       "link_redirect": "https://"
       }
