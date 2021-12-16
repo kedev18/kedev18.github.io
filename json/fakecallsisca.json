@@ -8,7 +8,7 @@
       "native_for_admob":"ca-app-pub-6372655865928482/2784149311",
       "backup_ads_banner":"034a600c0de8982f",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 1,
+      "interval_intertitial": 0,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "Insurance",
