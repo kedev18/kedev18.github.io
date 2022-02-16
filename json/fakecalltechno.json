@@ -1,7 +1,7 @@
 {
   "Ads": [
       {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "IRON",
       "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-6372655865928482/3448680484",
       "main_ads_intertitial":"ca-app-pub-6372655865928482/3607806049",
@@ -9,8 +9,8 @@
       "backup_ads_banner":"ce3757c9e110c6dc",
       "backup_ads_intertitial":"a170f9b03334aecf",
       "interval_intertitial": 2,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"138042f71",
+      "initialize_sdk_backup_ads":"138042f71",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
